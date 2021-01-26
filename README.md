@@ -1,4 +1,6 @@
-### Hi there 👋
+### Greetings! 👋
+
+I'm Hassane, a full-stack web and mobile developer. I still love sharing everything I know about programming.
 
 <!--
 **daohassane/daohassane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
